@@ -1,0 +1,19 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="tvcultura.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/TV_Cultura_logo_2020.png" group-title="Canais Públicos",TV Cultura
+https://streaming.culturaonline.net/hls/live.m3u8
+
+#EXTINF:-1 tvg-id="tvbrasil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/TV_Brasil_logo_2019.png" group-title="Canais Públicos",TV Brasil
+https://tvbrasil-p.ebc.com.br/hls/live/live.m3u8
+
+#EXTINF:-1 tvg-id="tvescola.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/TV_Escola_logo.png" group-title="Canais Educacionais",TV Escola
+https://streaming-br.tv.br/tvescola/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="senado.br" tvg-logo="https://www12.senado.leg.br/homepage/img/logo-senado.svg" group-title="Institucional",TV Senado
+https://senado-br-live.hls.globo.com/live/hls/senado.m3u8
+
+#EXTINF:-1 tvg-id="camara.br" tvg-logo="https://www.camara.leg.br/tema/temas/logos/logo-camara.svg" group-title="Institucional",TV Câmara
+https://streaming.camara.leg.br/hls/live/live.m3u8
+
+#EXTINF:-1 tvg-id="nasa.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/NASA_logo.svg" group-title="Internacional",NASA TV
+https://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
